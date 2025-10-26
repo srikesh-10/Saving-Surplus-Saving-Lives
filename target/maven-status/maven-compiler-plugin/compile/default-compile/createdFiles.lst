@@ -1,0 +1,8 @@
+com\ngo\repository\UserRepository.class
+com\ngo\controller\MainController.class
+com\ngo\repository\DonationRepository.class
+com\ngo\model\Donation.class
+com\ngo\model\User.class
+com\ngo\service\UserService.class
+com\ngo\service\DonationService.class
+com\ngo\NgoFoodDonationApplication.class
